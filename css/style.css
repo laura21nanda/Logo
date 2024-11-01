@@ -1,0 +1,38 @@
+body, h1, h2, p, ul, li,
+a {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: "Nunito", Helvetica, Arial, sans-serif;
+    color: #222222;
+    background-color: #222222;
+}
+
+
+.menu{
+    background-color: rgb(58, 57, 57);
+    width: 100%;
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    padding: 1px;
+    align-items: center;
+}
+.logos{
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menu-bg h1{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    
+
+}
